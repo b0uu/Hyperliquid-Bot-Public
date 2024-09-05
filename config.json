@@ -1,0 +1,16 @@
+{
+    "target_volume": 200000,
+    "coin": "ETH",
+    "min_hold_time": 28800,
+    "max_hold_time": 43200,
+    "min_order_freq": 60,
+    "max_order_freq": 120,
+    "position_size1": 3,
+    "position_size2": 3,
+    "position_size1_range_min": 2.37,
+    "position_size1_range_max": 2.43,
+    "position_size2_range_min": 2.37,
+    "position_size2_range_max": 2.43,
+    "account_1_api_key": "",
+    "account_2_api_key": ""
+}
